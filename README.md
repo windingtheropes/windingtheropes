@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 - 🔭 I’m currently working on devbot.
 - 🌱 I’m currently learning javascript.
 - 🔬 I'm interested in learning electron.
