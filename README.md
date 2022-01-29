@@ -9,4 +9,5 @@ I like doing programming as a hobby, as well as networking, sysadmin stuff and l
 
 - 👌 I’m excited to contribute to the open source community.
 
+[https://github.com/windingtheropes/learning](Here) is a repository of stuff I'm currently learning.
 Thanks for reading!
